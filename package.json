@@ -1,7 +1,7 @@
 {
   "name": "@nano-art/create-nano-app",
-  "version": "0.0.1",
-  "description": "nano-art cli",
+  "version": "0.0.2",
+  "description": "create-nano-app",
   "bin": {
     "create-nano-app": "./bin/nano.js"
   },
@@ -9,18 +9,13 @@
     "type": "git",
     "url": "git+https://github.com/nano-art/create-nano-app.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+ 
   "keywords": [
-    "react",
-    "react-component",
-    "react-components",
-    "react-cli",
     "create-nano-app",
     "nano",
     "nano-art",
-    "cli"
+    "cli",
+    "create-app"
   ],
   "author": "joynop",
   "license": "GPL-3.0",
