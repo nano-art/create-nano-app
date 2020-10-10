@@ -1,0 +1,39 @@
+{
+  "name": "@nano-art/nano-cli",
+  "version": "0.0.1",
+  "description": "nano-art cli",
+  "bin": {
+    "react-nano": "./bin/nano.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nano-art/nano-cli.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-components",
+    "react-cli",
+    "react-nano",
+    "nano",
+    "nano-art",
+    "cli"
+  ],
+  "author": "joynop",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nano-art/nano-cli/issues"
+  },
+  "homepage": "https://github.com/nano-art/nano-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "ora": "^2.0.0"
+  }
+}
