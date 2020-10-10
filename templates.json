@@ -1,1 +1,17 @@
-{}
+{
+  "react-template": {
+    "url": "https://github.com/JoyNop/joynop_cra_framework.git",
+    "branch": "master",
+    "description": "React Nano Template"
+  },
+  "react-template-pro": {
+    "url": "https://github.com/JoyNop/joynop_cra_framework.git",
+    "branch": "pro",
+    "description": "React Nano Template PRO"
+  },
+  "react-template-ssr": {
+    "url": "https://github.com/JoyNop/joynop_cra_framework.git",
+    "branch": "ssr",
+    "description": "React Nano Template SSR"
+  }
+}
