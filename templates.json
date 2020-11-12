@@ -14,7 +14,7 @@
     "branch": "ssr",
     "description": "React Nano Template SSR"
   },
-  "vue-template-v3.x": {
+  "vue-template-v3": {
     "url": "https://github.com/JoyNop/nano-vue.git",
     "branch": "main",
     "description": "Vue Nano Template Version 3.X"

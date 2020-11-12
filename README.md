@@ -18,15 +18,17 @@ create-nano-app i
 ```bash
  ❗️   模板列表是: 
 
-┌────────────────────┬─────────────────────────┐
-│ name               │ description             │
-├────────────────────┼─────────────────────────┤
-│ react-template     │ React Nano Template     │
-├────────────────────┼─────────────────────────┤
-│ react-template-pro │ React Nano Template PRO │
-├────────────────────┼─────────────────────────┤
-│ react-template-ssr │ React Nano Template SSR │
-└────────────────────┴─────────────────────────┘
+┌────┬────────────────────┬───────────────────────────────┐
+│ id │ name               │ description                   │
+├────┼────────────────────┼───────────────────────────────┤
+│ 0  │ react-template     │ React Nano Template           │
+├────┼────────────────────┼───────────────────────────────┤
+│ 1  │ react-template-pro │ React Nano Template PRO       │
+├────┼────────────────────┼───────────────────────────────┤
+│ 2  │ react-template-ssr │ React Nano Template SSR       │
+├────┼────────────────────┼───────────────────────────────┤
+│ 3  │ vue-template-v3    │ Vue Nano Template Version 3.X │
+└────┴────────────────────┴───────────────────────────────┘
 ```
 
  
@@ -40,15 +42,17 @@ create-nano-app i
 
  ❗️   模板列表是: 
 
-┌────────────────────┬─────────────────────────┐
-│ name               │ description             │
-├────────────────────┼─────────────────────────┤
-│ react-template     │ React Nano Template     │
-├────────────────────┼─────────────────────────┤
-│ react-template-pro │ React Nano Template PRO │
-├────────────────────┼─────────────────────────┤
-│ react-template-ssr │ React Nano Template SSR │
-└────────────────────┴─────────────────────────┘
+┌────┬────────────────────┬───────────────────────────────┐
+│ id │ name               │ description                   │
+├────┼────────────────────┼───────────────────────────────┤
+│ 0  │ react-template     │ React Nano Template           │
+├────┼────────────────────┼───────────────────────────────┤
+│ 1  │ react-template-pro │ React Nano Template PRO       │
+├────┼────────────────────┼───────────────────────────────┤
+│ 2  │ react-template-ssr │ React Nano Template SSR       │
+├────┼────────────────────┼───────────────────────────────┤
+│ 3  │ vue-template-v3    │ Vue Nano Template Version 3.X │
+└────┴────────────────────┴───────────────────────────────┘
 
 % create-nano-app i
 模板名字: react-template-pro

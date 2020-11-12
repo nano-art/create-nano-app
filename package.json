@@ -1,6 +1,6 @@
 {
   "name": "@nano-art/create-nano-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "create-nano-app",
   "bin": {
     "create-nano-app": "./bin/nano.js"
@@ -9,7 +9,6 @@
     "type": "git",
     "url": "git+https://github.com/nano-art/create-nano-app.git"
   },
- 
   "keywords": [
     "create-nano-app",
     "nano",
