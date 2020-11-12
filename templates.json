@@ -13,5 +13,10 @@
     "url": "https://github.com/JoyNop/joynop_cra_framework.git",
     "branch": "ssr",
     "description": "React Nano Template SSR"
+  },
+  "vue-template-v3.x": {
+    "url": "https://github.com/JoyNop/nano-vue.git",
+    "branch": "main",
+    "description": "Vue Nano Template Version 3.X"
   }
 }
