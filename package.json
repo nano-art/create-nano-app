@@ -1,6 +1,6 @@
 {
   "name": "@nano-art/create-nano-app",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "create-nano-app",
   "bin": {
     "create-nano-app": "./bin/nano.js"
