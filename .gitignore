@@ -6,4 +6,4 @@ node_modules/
 *.log
 .idea
 .lock
-package-lock.json
+# package-lock.json
