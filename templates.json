@@ -18,5 +18,10 @@
     "url": "https://github.com/JoyNop/nano-vue.git",
     "branch": "main",
     "description": "Vue Nano Template Version 3.X"
+  },
+  "vue3-ts-antd": {
+    "url": "https://github.com/JoyNop/nano-vue-framework",
+    "branch": "main",
+    "description": "Vue Nano Template Version 3.X & AntDesign"
   }
 }
